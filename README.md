@@ -22,4 +22,4 @@ Implement Neural Style Transfer to combine the content of one image with the art
 
 ## Author
 
-Rajyavardhan Singh Tomar
+SHRESTHA GUPTA
